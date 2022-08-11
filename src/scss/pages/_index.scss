@@ -1,0 +1,508 @@
+.custom-container{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.hed{
+    position: absolute;
+    width: 1242px;
+    height: 50px;
+    left: 339px;
+    top: 115px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 68px;
+    
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+}
+
+.breadcrumb{
+    a{
+        color:#828282;  
+    }
+    span{
+        color:#828282;  
+    }
+}
+
+
+.banner{
+
+    width: 100%;    
+   
+    align-items: center;
+    
+    display: flex;
+    justify-content: center;
+    
+
+    max-width: 100%;
+    height: auto;
+
+
+
+    .banner-text{
+        position: absolute;
+        top: 10pc;
+        left: 18pc;
+        background: white;
+        padding: 30px;
+        width: 60&;
+    }
+
+}
+.mid{
+
+align-items: center;
+
+background-color: white;
+
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+    font-size: 35px;
+    
+    text-align: center;
+
+}
+.text{
+    
+font-family: 'RobotoRegular';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 25px;
+   
+    text-align: left;
+    h2{
+        font-family: 'OswaldRegular';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 32px;
+        margin-bottom: 20px;
+    }
+
+    p{
+        margin-bottom: 20px;
+    }
+}
+
+.navbar-dark{
+    .navbar-nav {
+        .nav-link {
+        color: $color--white ;
+    }
+}
+}
+.ads-title{
+
+    padding-top: 5px;
+    padding: 30px;
+    margin-top: 15px;
+    color:dimgray;  
+    font-family: 'RobotoRegular';
+}
+.ads-mid{
+    padding-top: 5px;
+    padding: 5px;
+    margin-top: 15px;
+    color: #404040;
+}
+.color{
+    padding-top: 5px;
+    padding: 5px;
+    margin-top: 15px;
+    color:#949494;  
+    font-family: 'RobotoThin';
+}
+.but{
+    border-radius: 5px;
+    padding-top: 5px;
+    font-family: 'RobotoBold';
+    background-color: #404040;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    
+    
+
+    }
+.fot{
+    display: -moz-inline-grid;
+   
+}
+.test{
+   padding-left: 40px;
+
+}
+.sol{
+
+ width: 100px;
+ height: auto;
+ top: 250 px;
+}
+.dropdown-menu{
+    position: absolute;
+    max-width: 1000px;
+    // left: -31pc;
+    &.v2{
+       
+        width: 300px;
+        height: 300px;
+        left: -139px;
+        top: 41px;
+    }
+}
+.line{
+    line-height: 20px;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+  
+}
+.button{
+    top: 17px;
+    width: 100px;
+}
+
+
+
+    
+.blank{
+    text-align: right;
+    position: left;
+    left: 41px;
+}
+.bot{
+
+    padding: 1.875rem;
+   
+    margin: 0 0 8px 8px;
+    position: absolute;
+}
+.card-text{
+    font-family:'RobotoBold';
+    font-size: 12px;
+   padding-top: 0%;
+    line-height: 19px;
+    
+    
+
+}
+
+.card-body{
+    padding: 1.875rem;
+    text-align: left;
+    margin: 0 0 8px 8px;
+    position: absolute;
+    left: -21px;
+    font-size: 12px;
+    margin-top: 4px;
+}
+.btnl{
+    top: 46px;
+    left: -92px;
+    height: 52px;
+    width: 261px;
+    
+}
+
+.tot{
+    position: relative;
+   
+    display: flex;
+    justify-content: space-between;
+    left: -89px;
+    top: -40px;
+}
+.card-title{
+    width: 100px;
+    line-height: 19px;
+}
+.hr{
+ 
+ position: relative;
+ left: -92px;
+ top: 2px;
+}
+.img-fluid-v{
+    max-width: 100%;
+    height: auto;
+    margin-left: 21px;
+    padding-top: 25px;
+}
+
+
+
+.yu{
+    font-family:'OswaldRegular';
+    font-size: 24px;
+    line-height: 75px;
+    margin-inline: 15px;
+
+
+    
+}
+
+
+.my-img{
+    max-width: 254px;
+    height: 450px;
+    max-height: 355px;
+   
+    
+}
+.yaz{
+font-family: 'OswaldBold';
+font-weight: 600;
+font-size: 12px;
+line-height: 15px;
+color: gray;
+margin-left: 59px;
+}
+.yaz-v{
+    font-family: 'OswaldRegular';
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 26px;
+    margin-left: 59px;
+}
+.yaz-v1{
+    font-family: 'OswaldBold';
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 32px;
+    margin-left: 59px;
+}
+
+.yazi{
+    font-family: 'OswaldSemiBold';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    left: 10px;
+    
+}
+.colon{
+    max-width: 610px;
+    left:32px;
+    .colon-text{
+        left: 14px;
+    }
+}
+.colon-v2{
+    left:6px;
+    max-width: 610px;
+    margin-top: 7px;
+    .colon-text{
+        left: 14px;
+    }
+}
+.colon-v3{
+    left: 58px;
+    max-width: 610px;
+    margin-top: 12px;
+}
+.custom-container-v{
+    padding-left: 136px;
+    padding-right: 150px;
+    .yazi{
+        font-family: 'OswaldSemiBold';
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 17px;
+        left: 10px;
+        
+    }
+}
+footer{
+    background-color: #9abbd6;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 40px 0;
+    ul{
+        li{
+            font-size: 14px;
+            line-height: 21px;
+            display: flex;
+            align-items: center;
+            font-weight: 400;
+            white-space: nowrap;
+            img{
+                margin-right: 10px;
+                
+            }
+        }
+    }
+}
+.footer-area{
+    small{
+        font-family: 'RobotoBold';
+        font-style: normal;
+        font-weight: 400;
+        line-height: 27px;
+        
+        color: #fff;
+        font-size: 12px;
+        
+    }
+    hr{
+        border-top: 1px solid #4F4F4F;
+ }
+    h5{
+        font-family: 'OswaldRegular';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        margin-bottom: 20px;
+        color: white;
+    }
+    h1{
+        color: white;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 12px;
+
+
+
+    }
+
+    ul{
+        font-family: "Roboto Medium";
+        line-height: 25px;
+        text-transform: uppercase;
+        color: #828282;
+        font-size: 12px;
+        li{
+            font-size: 12px;
+            a{
+                color: #828282;
+               
+            }
+        }
+    }
+}
+.icons{
+
+    width: 14px;
+   
+}
+.subscribe-button{
+
+    color: #3F3F3F;
+    font-family: "Oswald";
+    padding: 14px 80px 14px 68px;
+    background: #fff;
+    margin-top: 107px;
+    text-align: center;
+    line-height: 25px;
+   
+}
+#email-address{
+    max-width: 217px;
+    width: 100%;
+    background: transparent;
+    border: 1px solid #fff;
+    max-height: 40px;
+    height: 100%;
+    padding: 15px;
+    margin-bottom: 15px;
+    
+}
+@media (max-width:1366px) {
+    .banner{
+    .banner-text{
+        left: 10pc;
+        top: 9pc;
+    }
+}
+}
+@include media-breakpoint-down(lg)  {
+    .banner{
+        .banner-text{
+            left: 12.5pc;
+            top: 6pc;
+            width: 72%;
+            padding: 5px;
+        }
+    }
+    .custom-container-v{
+        padding-left: 136px;
+        padding-right: 120px;
+        .yazi{
+            font-family: 'OswaldSemiBold';
+            font-weight: 400;
+            font-size: 14px;
+            line-height: 17px;
+            left: 10px;
+            
+        }
+    }
+}
+@include media-breakpoint-down(md)  { 
+    .footer-area{
+        text-align: center;
+
+
+    }
+    .custom-container {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .banner{
+        left: 8pc;
+        top: 5.5pc;
+        
+        .banner-text{
+            left: 120px;
+            top: 50px;
+            width: 72%;
+          
+        }
+    }
+
+    .check-icons{
+            width: 240px;
+        ul{
+            li{
+                font-size: 14px;
+                line-height: 21px;
+                display: flex;
+                align-items: center;
+                font-weight: 400;
+                white-space: nowrap;
+            }
+        }
+    }
+
+
+}
+@include media-breakpoint-down(sm)  {
+    .banner{
+        left: 6pc;
+        top: 5.5pc;
+        
+        .banner-text{
+            left: 70px;
+            top: 30px;
+            width: 72%;
+            font-size: 12px;
+          
+        }
+    }
+   
+}
+@include media-breakpoint-down(def) {
+
+}

@@ -1,0 +1,10 @@
+$color--white               : #FFFFFF;
+$color--black               : #000000;
+
+.color--white               { color: $color--white!important; }
+.bg--white                  { background-color: $color--white!important; }
+.br--white                  { border-color: $color--white!important; }
+
+.color--black               { color: $color--black!important; }
+.bg--black                  { background-color: $color--black!important; }
+.br--black                  { border-color: $color--black!important; }
